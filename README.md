@@ -79,7 +79,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>VTF</h1>
+        <h1>VTF (Virtual Tactile Floor)</h1>
         <p class="tagline">Uma nova visão para a cidade.</p>
         <p class="description">Estamos redefinindo os horizontes da mobilidade urbana.</p>
         <div class="highlight">
