@@ -56,7 +56,7 @@
             text-align: center;
             padding: 20px 10px;
             font-size: 0.85em;
-            border-top: 1px solid rgba(255,255,255,0.1);
+            border-top: 1px solid rgba(255,255,255,0.5);
         }
         footer a {
             color: #fdbb2d;
